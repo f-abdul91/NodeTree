@@ -23,8 +23,5 @@ public class FileHandlerConfig {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }
-
-
